@@ -1,0 +1,8 @@
+prin("Hello to my store")
+sum = O
+while(true):
+  user_input = input("Enter the price: \n")
+  if (user_input != done):
+    sum += int(user_input)
+  else:
+    print("Thanks for using our calculator")
